@@ -4,7 +4,7 @@ A final-year Business Management student at Telkom University. I specialize in b
 
 - 🔭 I'm currently researching **blockchain-driven transparency models** and governance gaps in digital platforms.
 - 🌱 I'm currently utilizing **Python**, **SQL, and Tableau** for data analysis and structuring business cases.
-- 💼 Previously: Human Capital Business Partner Intern at Pertamina (implemented ML for skill-to-role matching) and Big Data Teaching Assistant[cite: 1].
+- 💼 Previously: Human Capital Business Partner Intern at Pertamina (implemented ML for skill-to-role matching) and Big Data Teaching Assistant.
 - 📫 How to reach me: [business.pparell@gmail.com](mailto:business.pparell@gmail.com)
 
 ### Github Statistic
