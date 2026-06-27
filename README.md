@@ -9,7 +9,7 @@ A final-year Business Management student at Telkom University[cite: 1]. I specia
 
 ### Github Statistic
 
-<p align="left">
+<p align="middle">
   <img src="https://github-readme-stats.vercel.app/api?username=ppaarell&show_icons=true&theme=tokyonight" alt="Farel's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppaarell&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
