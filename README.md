@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi There! 👋 I'm Farel Ramadhana[cite: 1].
 
-<!--
-**ppaarell/ppaarell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A final-year Business Management student at Telkom University[cite: 1]. I specialize in bridging the gap between business strategy and data-driven solutions, with a strong focus on market research, data analytics, and blockchain governance[cite: 1].
 
-Here are some ideas to get you started:
+- 🔭 I'm currently researching **blockchain-driven transparency models** and governance gaps in digital platforms[cite: 1].
+- 🌱 I'm currently utilizing **Python**[cite: 1], **SQL, and Tableau** for data analysis and structuring business cases[cite: 1].
+- 💼 Previously: Human Capital Business Partner Intern at Pertamina (implemented ML for skill-to-role matching) and Big Data Teaching Assistant[cite: 1].
+- 📫 How to reach me: [business.pparell@gmail.com](mailto:business.pparell@gmail.com)[cite: 1]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Statistic
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ppaarell&show_icons=true&theme=tokyonight" alt="Farel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppaarell&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
