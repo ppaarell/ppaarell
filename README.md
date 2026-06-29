@@ -10,7 +10,7 @@ A final-year Business Management student at Telkom University. I specialize in b
 ### Github Statistic
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ppaarell&show_icons=true&theme=tokyonight" height="140" alt="Farel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppaarell&layout=compact&theme=tokyonight" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ppaarell&show_icons=true&theme=tokyonight&hide_border=true" height="140" alt="Farel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppaarell&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" height="195" alt="Top Languages" />
 </p>
 
