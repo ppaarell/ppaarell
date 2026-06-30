@@ -7,10 +7,19 @@ A final-year Business Management student at Telkom University. I specialize in b
 - 💼 Previously: Human Capital Business Partner Intern at Pertamina (implemented ML for skill-to-role matching) and Big Data Teaching Assistant.
 - 📫 How to reach me: [business.pparell@gmail.com](mailto:business.pparell@gmail.com)
 
+
 ### Github Statistic
 
-[![](https://raw.githubusercontent.com/ppaarell/ppaarell/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ppaarell/ppaarell/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ppaarell/ppaarell/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ppaarell/ppaarell/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="685" alt="Profile Details" />
+</p>
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/ppaarell/ppaarell/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="340" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/ppaarell/ppaarell/main/profile-summary-card-output/tokyonight/3-stats.svg" width="340" />
+  </a>
+</p>
 
 
