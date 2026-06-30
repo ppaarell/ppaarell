@@ -9,8 +9,8 @@ A final-year Business Management student at Telkom University. I specialize in b
 
 ### Github Statistic
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ppaarell&show_icons=true&theme=tokyonight" height="140" alt="Farel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppaarell&layout=compact&theme=tokyonight" height="195" alt="Top Languages" />
-</p>
+[![](https://raw.githubusercontent.com/ppaarell/ppaarell/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ppaarell/ppaarell/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ppaarell/ppaarell/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 
