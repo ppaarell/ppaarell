@@ -10,16 +10,8 @@ A final-year Business Management student at Telkom University. I specialize in b
 
 ### Github Statistic
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ppaarell/ppaarell/main/profile-summary-card-output/great_gatsby/0-profile-details.svg" width="685" alt="Profile Details" />
-</p>
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/ppaarell/ppaarell/main/profile-summary-card-output/great_gatsby/1-repos-per-language.svg" width="340" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/ppaarell/ppaarell/main/profile-summary-card-output/great_gatsby/3-stats.svg" width="340" />
-  </a>
-</p>
+[![](https://raw.githubusercontent.com/ppaarell/ppaarell/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ppaarell/ppaarell/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ppaarell/ppaarell/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/ppaarell/ppaarell/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ppaarell/ppaarell/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
